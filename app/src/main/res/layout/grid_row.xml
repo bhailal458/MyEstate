@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout
+    android:orientation="horizontal"
+    android:id="@+id/ll_grid_row"
+   android:layout_margin="@dimen/_5sdp"
+    android:layout_width="@dimen/_85sdp"
+    android:layout_height="@dimen/_85sdp">
+    <!--<ImageView-->
+        <!--android:src="@drawable/bg"-->
+        <!--android:background="@color/black_trans"-->
+        <!--android:id="@+id/image_grid"-->
+        <!--android:layout_width="@dimen/_100sdp"-->
+        <!--android:layout_height="@dimen/_100sdp" />-->
+
+    <TextView
+        android:id="@+id/text_grid"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:ellipsize="end"
+        android:layout_margin="@dimen/_5sdp"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_13sdp"
+        android:layout_width="@dimen/_70sdp"
+        android:layout_height="match_parent" />
+</LinearLayout>
+</layout>
+
+
+
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<layout xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--<LinearLayout-->
+    <!--android:orientation="horizontal"-->
+    <!--android:id="@+id/ll_grid_row"-->
+    <!--android:layout_margin="@dimen/_5sdp"-->
+    <!--android:layout_width="@dimen/_85sdp"-->
+    <!--android:layout_height="@dimen/_85sdp">-->
+    <!--&lt;!&ndash;<ImageView&ndash;&gt;-->
+    <!--&lt;!&ndash;android:src="@drawable/bg"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:background="@color/black_trans"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:id="@+id/image_grid"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_width="@dimen/_100sdp"&ndash;&gt;-->
+    <!--&lt;!&ndash;android:layout_height="@dimen/_100sdp" />&ndash;&gt;-->
+
+    <!--<TextView-->
+        <!--android:id="@+id/text_grid"-->
+        <!--android:gravity="center"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:ellipsize="end"-->
+        <!--android:layout_margin="@dimen/_5sdp"-->
+        <!--android:textColor="@color/white"-->
+        <!--android:layout_width="@dimen/_70sdp"-->
+        <!--android:layout_height="match_parent" />-->
+<!--</LinearLayout>-->
+<!--</layout>-->

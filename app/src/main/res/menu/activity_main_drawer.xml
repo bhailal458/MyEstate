@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_news"
+        android:icon="@drawable/ic_menu_gallery"
+        android:title="News and Blog" />
+    <item
+        android:id="@+id/nav_land"
+        android:icon="@drawable/ic_menu_slideshow"
+        android:title="Land" />
+    <item
+        android:id="@+id/nav_property"
+        android:icon="@drawable/ic_menu_manage"
+        android:title="Property" />
+    <item
+        android:id="@+id/nav_revenue"
+        android:icon="@drawable/ic_menu_share"
+        android:title="Revenue Records" />
+    <item
+        android:id="@+id/nav_TPDP"
+        android:icon="@drawable/ic_menu_send"
+        android:title="TP/DP/Village Maps" />
+    <item
+        android:id="@+id/nav_jantri"
+        android:icon="@drawable/ic_menu_send"
+        android:title="Jantri" />
+    <item
+        android:id="@+id/nav_unit_convertor"
+        android:icon="@drawable/ic_menu_send"
+        android:title="Unit Convertor" />
+    <item
+        android:id="@+id/nav_loan_calculator"
+        android:icon="@drawable/ic_menu_send"
+        android:title="Loan Calculator" />
+    <item
+        android:id="@+id/nav_govt_circular"
+        android:icon="@drawable/ic_menu_send"
+        android:title="Govt. Circulars" />
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_menu_send"
+        android:title="Logout" />
+</menu>
+

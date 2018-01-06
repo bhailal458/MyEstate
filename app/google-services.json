@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "58681000346",
+    "firebase_url": "https://myattorney-72283.firebaseio.com",
+    "project_id": "myattorney-72283",
+    "storage_bucket": "myattorney-72283.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58681000346:android:12e8dbb6c0c7e37f",
+        "android_client_info": {
+          "package_name": "com.myestate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58681000346-oiien1j03mnju32kdt0k4sfdev4ktpuu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myestate",
+            "certificate_hash": "a69ec4a0d4cd3ea6673cda5e7e8e3c4411ec73bb"
+          }
+        },
+        {
+          "client_id": "58681000346-pk76fvovt2mpqrmbb81pu9ns9os70k07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkBEjYFvvw9JdRNeWOURRNMyUYaL74eRs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58681000346-pk76fvovt2mpqrmbb81pu9ns9os70k07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
